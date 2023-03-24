@@ -1,0 +1,12 @@
+{
+  "name": "webpack-library-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/danantal/webpack-library-demo.git",
+  "author": "Dan Antal <antaldan95@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "webpack": "^5.76.3"
+  }
+}
